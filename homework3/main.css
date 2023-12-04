@@ -1,0 +1,97 @@
+.title {
+    font-size: 58px;
+    font-weight: normal;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.bg {
+    background: rgba(210, 215, 211, 0.2);
+}
+
+.line {
+    margin-top: 30px;
+}
+
+.underTitle {
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.fullText {
+    margin-top: 30px;
+}
+
+.boldText {
+    margin-left: 50px;
+    font-family: Montserrat;
+    display: contents;
+}
+
+.secondParagraph {
+    width: 900px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.thirdParagraph {
+    margin-top: 30px;
+    width: 900px;
+    margin-left: 50px;
+}
+
+.secondLine {
+    margin-top: 30px;
+}
+
+.secondTitle {
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.fourthParagraph {
+    width: 900px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+.part4Paragraph {
+    margin-top: 15px;
+}
+
+.part4Paragraph2 {
+    margin-top: 15px;
+}
+
+.block {
+    width: 98%;
+    height: 170px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(210, 215, 211, 0.9);
+}
+
+.thirdLine {
+    margin-top: 20px;
+}
+
+.bottomText {
+    display: flex;
+}
+
+.tag {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.bottomStyle {
+    background: gray;
+}
